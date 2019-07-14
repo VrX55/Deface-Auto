@@ -1,4 +1,9 @@
 # Deface-Auto
-#automatic
-#kalian kalo mau ada di toolsnya Tuan B4dut
-#ya
+#script deface bisa kalian dapatkan
+#di google
+#web vuln udah saya sediakan
+#btw ini POC WEBDAV
+#kan buat pemula
+#oke trima kasih
+
+
